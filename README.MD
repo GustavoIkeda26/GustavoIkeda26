@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Gustavo Ikeda!
 
-Atuo na area de vendas de veiculos zero km
+🚗 Atuo na área de vendas de veículos zero km  
 💻 Estudante de Tecnologia | Futuro Desenvolvedor de Sistemas  
 🚀 Apaixonado por aprender e ainda no primeiro semestre, mas bem empenhado em ser um programador
 
@@ -15,8 +15,15 @@ Atuo na area de vendas de veiculos zero km
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-ikeda-a26119187)
-[![email](https://img.shields.io/badge/Icloud-red?style=for-the-badge&logo=Icloud&logoColor=white)](mailto:guatavoikeda@icloud.com)
+[![Email](https://img.shields.io/badge/Icloud-red?style=for-the-badge&logo=icloud&logoColor=white)](mailto:gustavoikeda@icloud.com)
+
+---
+
+## 📊 Estatísticas
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoIkeda26&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoIkeda26&layout=compact&theme=radical)
 
 ---
 
 ✨ Esse perfil é meu espaço para compartilhar projetos, aprendizados e evolução como desenvolvedor.
+
