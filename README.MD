@@ -19,11 +19,5 @@
 
 ---
 
-## 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoIkeda26&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoIkeda26&layout=compact&theme=radical)
-
----
-
 ✨ Esse perfil é meu espaço para compartilhar projetos, aprendizados e evolução como desenvolvedor.
 
