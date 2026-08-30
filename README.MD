@@ -1,11 +1,12 @@
-# 👋 Olá, eu sou Ikeda!
+# 👋 Olá, eu sou Gustavo Ikeda!
 
+Atuo na area de vendas de veiculos zero km
 💻 Estudante de Tecnologia | Futuro Desenvolvedor de Sistemas  
-🚀 Apaixonado por aprender e aplicar conhecimentos em **Python, HTML e CSS**  
+🚀 Apaixonado por aprender e ainda no primeiro semestre, mas bem empenhado em ser um programador
 
 ---
 
-## 🛠️ Tecnologias que estudo
+## 🛠️ Tecnologias que estudo:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -13,8 +14,8 @@
 ---
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavo-ikeda-a26119187)
+[![email](https://img.shields.io/badge/Icloud-red?style=for-the-badge&logo=Icloud&logoColor=white)](mailto:guatavoikeda@icloud.com)
 
 ---
 
